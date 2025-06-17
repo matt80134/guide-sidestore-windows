@@ -1,14 +1,18 @@
-# guide-sidestore-windows
+![image](https://github.com/user-attachments/assets/4031a91b-5301-48ee-a5d1-3ad3461f44c1)
+
 # 📲 Installer SideStore sur iPhone depuis Windows
 
 > Un guide simple et à jour pour installer SideStore sans Mac, directement depuis Windows.  
 > ⚠️ Compatible iOS **17.0 à 18.5** – **non encore testé sur iOS 18.6** (mise à jour à venir)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/sidestore-banner.png" alt="Installer SideStore depuis Windows">
+</p>
+
 ![Plateforme](https://img.shields.io/badge/plateforme-Windows-blue)
 ![iOS](https://img.shields.io/badge/iOS-17.0--18.5-green)
 ![Méthode-sans%20Mac-important](https://img.shields.io/badge/m%C3%A9thode-sans%20Mac-important)
 ![SideStore](https://img.shields.io/github/stars/SideStore/SideStore?style=social)
-![image](https://github.com/user-attachments/assets/805cac50-c859-4780-84c1-fd74d6ada482)
 
 ---
 
@@ -107,8 +111,9 @@ SideStore peut les re-signer automatiquement si :
 ## 📡 Ressources utiles
 
 - 🌐 Site officiel : [https://sidestore.io](https://sidestore.io)
-- 💬 Discord communautaire : [https://discord.gg/sidestore](https://discord.gg/sidestore)
+- 💬 Discord communautaire : [https://discord.gg/RgpFBX3Q3k](https://discord.gg/RgpFBX3Q3k)
 - 🧑‍💻 GitHub officiel : [https://github.com/SideStore/SideStore](https://github.com/SideStore/SideStore)
+
 
 ---
 

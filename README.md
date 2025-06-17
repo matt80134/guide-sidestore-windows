@@ -5,10 +5,6 @@
 > Un guide simple et à jour pour installer SideStore sans Mac, directement depuis Windows.  
 > ⚠️ Compatible iOS **17.0 à 18.5** – **non encore testé sur iOS 18.6** (mise à jour à venir)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/sidestore-banner.png" alt="Installer SideStore depuis Windows">
-</p>
-
 ![Plateforme](https://img.shields.io/badge/plateforme-Windows-blue)
 ![iOS](https://img.shields.io/badge/iOS-17.0--18.5-green)
 ![Méthode-sans%20Mac-important](https://img.shields.io/badge/m%C3%A9thode-sans%20Mac-important)
